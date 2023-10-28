@@ -19,10 +19,11 @@ uni_coeff=15 ; kl_coeff=5000
 
 # Cite
 If the paper and code are helpful to you, please cite our paper. Also welcome to contact the first author via email for discussion or cooperation.
-  @article{Bai2023GoRecAG,
-    title={GoRec: A Generative Cold-start Recommendation Framework},
-    author={Haoyue Bai and Min Hou and Le Wu and Yonghui Yang and Kun Zhang and Richang Hong and Meng Wang},
-    journal={Proceedings of the 31st ACM International Conference on Multimedia},
-    year={2023},
-    url={https://api.semanticscholar.org/CorpusID:264492017}
-  }
+ 
+>@article{Bai2023GoRecAG,
+  title={GoRec: A Generative Cold-start Recommendation Framework},
+  author={Haoyue Bai and Min Hou and Le Wu and Yonghui Yang and Kun Zhang and Richang Hong and Meng Wang},
+  journal={Proceedings of the 31st ACM International Conference on Multimedia},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:264492017}
+}
